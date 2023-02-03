@@ -5,3 +5,5 @@
 > [gitbrains](https://github.com/SolodkovKM/gitbrains.git "repo gitbrains")
 
 > [my vk](https://vk.com/keennyj "my vk")
+
+some info
